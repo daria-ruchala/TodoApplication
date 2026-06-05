@@ -1,0 +1,5 @@
+1,veggies,grocery,false
+2,clean,home,true
+3,gym,personal,false
+4,nanny,work,false
+5,cook,personal,false
